@@ -57,7 +57,7 @@ The following table summarizes the accuracy of each classifier with different n-
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/akiffazal/bbc-news-classification.git
+   git clone https://github.com/Akiffazal/bbc-news-classification.git
    ```
    
 2. **Install the Required Libraries**
