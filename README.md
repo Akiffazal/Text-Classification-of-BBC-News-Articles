@@ -12,10 +12,11 @@ The following preprocessing steps were performed on the dataset:
 1. Lowercasing Text
 2. Removing HTML Tags
 3. Removing URLs
-4. Handling ChatWords
-5. Handling StopWords
-6. Tokenization
-7. Lemmatization
+4. Removing Punctuations
+5. Handling ChatWords
+6. Handling StopWords
+7. Tokenization
+8. Lemmatization
 
 ## Models Used
 - **Naive Bayes**
