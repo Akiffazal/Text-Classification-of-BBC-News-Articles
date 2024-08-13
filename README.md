@@ -9,14 +9,16 @@ The dataset used in this project consists of BBC News articles, each labeled wit
 ## Preprocessing Steps
 The following preprocessing steps were performed on the dataset:
 
-1. Lowercasing Text
-2. Removing HTML Tags
-3. Removing URLs
-4. Removing Punctuations
-5. Handling ChatWords
-6. Handling StopWords
-7. Tokenization
-8. Lemmatization
+Sure, here’s a concise one-liner for each preprocessing step:
+
+1. **Lowercasing Text**: Convert all text to lowercase to ensure uniformity.
+2. **Removing HTML Tags**: Strip out HTML tags to clean the text.
+3. **Removing URLs**: Eliminate URLs to focus on text content.
+4. **Removing Punctuations**: Remove punctuation marks to standardize text.
+5. **Handling ChatWords**: Normalize chat-specific abbreviations and slang.
+6. **Handling StopWords**: Remove common stop words that do not contribute to meaning.
+7. **Tokenization**: Split text into individual words or tokens.
+81. **Lemmatization**: Convert words to their base or dictionary form to improve meaning consistency.
 
 ## Models Used
 - **Naive Bayes**
